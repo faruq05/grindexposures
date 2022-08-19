@@ -1,0 +1,506 @@
+@media(max-width:1199px) {
+    .profile img {
+
+        top: 42px;
+
+        width: 23%;
+
+    }
+
+    .package_list h2 {
+
+        margin-top: 95px;
+
+    }
+
+    .chart {
+        width: 100%;
+    }
+
+    .package_chart {
+        padding: 0px 30px 20px 30px;
+    }
+}
+
+@media(max-width:991px) {
+    .introduction p {
+        font-size: 18px;
+    }
+
+    .idol h2 {
+        margin: 0;
+    }
+
+    .idol p {
+        margin: 0;
+    }
+
+    .idol_text {
+        padding-top: 10%;
+    }
+
+    .image_details2 {
+        margin: 0;
+    }
+
+    .hover_images {
+        background-size: contain !important;
+        min-height: 500px;
+        background-position: center;
+        margin-top: 0;
+    }
+
+    .image_names ul {
+
+        margin-left: 20px;
+
+    }
+
+    .image_names ul li {
+        padding: 05px 0px;
+    }
+
+    .packages {
+        padding: 0;
+    }
+
+    .package_list h2 {
+
+        margin-top: 230px;
+
+    }
+
+    .profile img {
+
+        width: 22%;
+
+        top: 30px;
+
+        left: 50%;
+    }
+
+    .chart {
+        width: 100%;
+        height: 100%;
+    }
+
+    .package_chart {
+        padding: 0px 30px 20px 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .introduction h1 {
+        font-size: 26px;
+    }
+
+    .introduction p {
+        font-size: 18px;
+        line-height: 1.5rem;
+    }
+
+    .idol{
+        padding-bottom: 30px;
+    }
+    
+    .idol_text {
+        width: 100%;
+    }
+
+    .idol h2 {
+        margin: 0;
+        font-size: 28px;
+        text-align: center;
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .idol p {
+        margin: 0;
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .image_content {
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    .image_details2 {
+
+        margin: 0;
+    }
+
+    .idol_text2 {
+        display: none;
+    }
+
+    .idol_text2responsive {
+        display: block;
+    }
+
+    .users h2 {
+        font-size: 26px;
+    }
+
+    .users p {
+        padding-bottom: 20px;
+        font-size: 18px;
+        line-height: 1.5rem;
+    }
+
+    .image_names ul {
+        margin-left: 20px;
+    }
+
+    .image_names ul li a {
+        font-size: 20px;
+    }
+
+    .hover_images {
+        background-size: contain !important;
+        min-height: 345px;
+        background-position: center;
+        margin-top: 0;
+    }
+
+    .image_names {
+
+        text-align: center;
+
+        margin-top: 30px;
+
+    }
+
+    .image_names ul li {
+        padding: 5px 0px;
+    }
+
+    .packages {
+        padding: 0px;
+    }
+
+    .packages h1 {
+        font-size: 35px;
+        margin-top: 65%;
+    }
+
+    .cover {
+        display: none;
+    }
+
+    .profile img {
+
+        width: 40%;
+
+        top: -210px;
+
+    }
+
+    .option {
+        padding: 20px 35px;
+    }
+
+    .chart_margin {
+        margin-bottom: 30px;
+    }
+
+    .package_top {
+        margin-top: 0px !important;
+    }
+}
+
+@media(max-width:575px) {
+    .introduction h1 {
+        font-size: 26px;
+    }
+
+    .introduction p {
+        font-size: 14px;
+        padding-bottom: 30px;
+        line-height: 1.5rem;
+    }
+
+    .idol {
+
+        padding-bottom: 50px;
+
+    }
+
+    .idol_text {
+        width: 100%;
+    }
+
+    .idol h2 {
+        margin: 0;
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .idol p {
+        margin: 0;
+        padding-bottom: 20px;
+        text-align: center;
+        line-height: 1.5rem;
+    }
+
+    .image_content {
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    .image_content a {
+
+        font-size: 14px;
+    }
+
+    .image_details2 {
+
+        margin: 0;
+    }
+
+    .idol_text2 {
+        display: none;
+    }
+
+    .idol_text2responsive {
+        display: block;
+    }
+
+    .users h2 {
+        font-size: 26px;
+    }
+
+    .users p {
+        font-size: 14px;
+        padding-bottom: 30px;
+        line-height: 1.5rem;
+    }
+
+    .image_names ul {
+        margin-left: 20px;
+    }
+
+    .image_names ul li a {
+        font-size: 16px;
+    }
+
+    .hover_images {
+        background-size: contain !important;
+        min-height: 210px;
+        background-position: center;
+        margin-top: 0;
+    }
+
+    .image_names {
+
+        text-align: center;
+
+        margin-top: 30px;
+
+    }
+
+    .image_names ul li {
+        padding: 5px 0px;
+    }
+
+    .packages {
+        padding: 0px;
+    }
+
+    .packages h1 {
+        font-size: 30px;
+        margin-top: 65%;
+    }
+
+    .cover {
+        display: none;
+    }
+
+    .profile img {
+
+        width: 45%;
+
+        top: -260px;
+
+    }
+
+    .option {
+        padding: 20px 35px;
+    }
+
+    .chart_margin {
+        margin-bottom: 30px;
+    }
+
+
+    .package_top {
+        margin-top: 0px !important;
+        font-size: 26px !important;
+    }
+
+    .package_list h2 {
+        margin-top: 280px;
+        font-size: 26px;
+    }
+
+    .packages p {
+        font-size: 14px;
+        padding-bottom: 30px;
+        line-height: 1.5rem;
+    }
+
+    .price p {
+        font-size: 25px;
+        padding: 0;
+    }
+
+
+}
+
+
+@media(max-width:400px) {
+
+    .package_list h2 {
+        margin-top: 200px;
+        font-size: 26px;
+    }
+
+    .profile img {
+        top: -175px;
+    }
+}
+
+@media(max-width:320px) {
+
+    .introduction h1 {
+        font-size: 30px;
+    }
+
+    .introduction p {
+        font-size: 14px;
+        padding-bottom: 30px;
+        line-height: 1.5rem;
+    }
+
+    .idol_text {
+        width: 100%;
+    }
+
+    .idol h2 {
+        margin: 0;
+        font-size: 20px;
+    }
+
+    .idol p {
+        margin: 0;
+        padding-bottom: 10px;
+        font-size: 14px;
+        text-align: left;
+    }
+
+    .image_content {
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    .image_details2 {
+
+        margin: 0;
+    }
+
+    .idol {
+        padding-bottom: 30px;
+    }
+
+    .idol_text2 {
+        display: none;
+    }
+
+    .idol_text2responsive {
+        display: block;
+    }
+
+    .users h2 {
+        font-size: 30px;
+    }
+
+    .users p {
+        padding-bottom: 20px;
+        font-size: 14px;
+        line-height: 1.5rem;
+    }
+
+    .image_names {
+
+        text-align: left;
+
+        margin-top: 30px;
+    }
+
+    .image_names ul {
+        margin-left: 20px;
+    }
+
+    .image_names ul li a {
+        font-size: 16px;
+    }
+
+    .hover_images {
+        background-size: contain !important;
+        min-height: 230px;
+    }
+
+    .image_names ul li {
+        padding: 2px 0px;
+    }
+
+
+    .packages {
+        padding: 0px;
+    }
+
+    .packages h2 {
+        font-size: 30px;
+        margin-top: 200px;
+    }
+
+    .packages p {
+
+        font-size: 14px;
+
+        line-height: 1.5rem;
+    }
+
+    .cover {
+        display: none;
+    }
+
+    .profile img {
+
+        top: -170px;
+
+        width: 55%;
+    }
+
+    .option {
+        padding: 20px;
+    }
+
+    .chart_margin {
+        margin-bottom: 30px;
+    }
+
+    .package_top {
+        margin-top: 0px !important;
+    }
+
+    .price p {
+        font-size: 20px;
+    }
+
+    .option ul li p {
+        font-size: 14px;
+    }
+}
